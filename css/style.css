@@ -1,0 +1,95 @@
+
+                    /* headerio juosta */
+.header{
+    background-color: #3c8bc2;
+}
+.header h1{
+    color: white;
+}
+.form-inline{
+    padding: 8px;
+}
+.icon{
+    position: relative;
+ }
+.fa-search {
+    position: absolute;
+    padding: 8px 11px;
+    right: 0;
+}
+.logo{
+    text-align: center;
+    margin-right: 5px;
+}
+.searchbar{
+    margin: 10px 7px 7px 7px;
+}
+
+                            /*Miestas + Prideti vietove */
+
+.weather-week{
+    background: url("../image/background.png") no-repeat;
+}
+.barcelona{
+   color:#ffffff;
+    margin-left: 1rem;
+}
+.left-side{
+   color: white;
+   background-color: rgba(27,29,79,0.94);
+    text-align: center;
+    position: relative;
+    margin-top:6px ;
+    margin-bottom:6px ;
+
+}
+/* oru pirmoji juosta */
+
+.first-line{
+    border: 1px solid darkgrey;
+    height:150px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid #ff8b29;
+}
+.second-line{
+    border: 1px solid darkgrey;
+    height: 90px;
+    background-color: #ffffff;
+    border-bottom: 7px solid #ff8b29;
+    margin: 3.8rem 1px 0 1px;
+    text-align: center;
+}
+.arrow{
+    height: 90px;
+    width: 30px;
+    color: white;
+    background-color: rgba(57, 114, 173, 0.94);
+    margin: 3.8rem 1px 0 1px;
+    text-align: center;
+    font-size: 40px;
+    position: center;
+}
+/*main*/
+.lines{
+    width: 3.8rem;
+    height: 17rem;
+    border: 1px solid darkgrey;
+    text-align: center;
+}
+
+/*footer*/
+
+ .logo-pic{
+     position: relative;
+    margin:30px 5px 5px 10px;
+ }
+ .text{
+     position: relative;
+     margin:30px 5px 5px 10px;
+    left: 200px;
+ }
+
+
+
+
