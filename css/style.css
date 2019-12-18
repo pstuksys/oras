@@ -58,6 +58,7 @@
     background-color: #ffffff;
     border-bottom: 7px solid #ff8b29;
     margin: 3.8rem 1px 0 1px;
+    padding-left: 8.5rem;
     text-align: center;
 }
 .arrow{
@@ -69,6 +70,7 @@
     text-align: center;
     font-size: 40px;
     position: center;
+    padding-top: 1.5rem;
 }
 /*main*/
 .lines{
@@ -87,7 +89,7 @@
  .text{
      position: relative;
      margin:30px 5px 5px 10px;
-    left: 200px;
+
  }
 
 
